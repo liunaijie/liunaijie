@@ -13,4 +13,10 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+![Jared Tan's github stats](https://github-readme-stats.vercel.app/api?username=liunaijie&show_icons=true&theme=radical&include_all_commits=true)
+
+<!--
+![Jared Tan's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=liunaijie&langs_count=8&theme=radical)
+
 -->
